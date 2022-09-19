@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gracegarmo
 - 👀 I’m interested in user experience (UX) design and research!
-- 🌱 I’m currently learning python, HTML, and CSS.
+- 🌱 I’m currently learning Python, HTML, and CSS.
 
 <!---
 gracegarmo/gracegarmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
